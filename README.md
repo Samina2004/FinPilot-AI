@@ -20,12 +20,12 @@ Designed with a clean UX/UI and following modern Android development architectur
 ## 📸 App Walkthrough & Screenshots
 
 ### 1. Welcome & Onboarding Flow
-| Splash Screen | Track Your Budget (Onboarding) | Budget Overview Guidance |
-| --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(1).jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.55%20AM.jpeg" width="250"> |
+| Splash Screen | 1. Track Your Budget | 2. AI-Powered Finance | 3. Scan & Attach Receipts |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM.jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(1).jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM%20(1).jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM.jpeg" width="220"> |
 
-### 2. User Authentication (Sign In & Sign Up)
-| Welcome Back (Sign In) | Create Account (Sign Up) |
+### 2. User Authentication
+| Sign In (Welcome Back) | Sign Up (Create Account) |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.54%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(2).jpeg" width="250"> |
 
