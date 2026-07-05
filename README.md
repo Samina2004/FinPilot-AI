@@ -20,24 +20,24 @@ Designed with a clean UX/UI and following modern Android development architectur
 ## 📸 App Walkthrough & Screenshots
 
 ### 1. Welcome & Onboarding Flow
-| Splash Screen | 1. Track Your Budget | 2. AI-Powered Finance | 3. Scan & Attach Receipts |
+| Splash Screen | 1. AI-Powered Finance | 2. Scan & Attach Receipts | 3. Track Your Budget |
 | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM.jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(1).jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM%20(1).jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM.jpeg" width="220"> |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM.jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM%20(1).jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM.jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(1).jpeg" width="220"> |
 
-### 2. User Authentication
-| Sign In (Welcome Back) | Sign Up (Create Account) |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.54%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(2).jpeg" width="250"> |
-
-### 3. Core Dashboard & Smart Features
-| Live Dashboard & AI Insights | Expense Logging | Detailed Transaction Proof |
+### 2. User Authentication & Input Validation
+| Sign In (Welcome Back) | Blank Registration | Dummy Data Validation |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.13%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.12%20AM%20(1).jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.11%20AM.jpeg" width="250"> |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.54%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(2).jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.54%20AM%20(1).jpeg" width="250"> |
 
-### 4. Receipt Scanner Flow & Filtering
-| Attach Receipt Init | Receipt Captured | All Filtered Expenses |
+### 3. Core Dashboard Progression & Smart Features
+| Initial Setup (Empty State) | Active Dashboard & AI Insights | Expense Logging Setup |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.56%20AM%20(1).jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.14%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.12%20AM.jpeg" width="250"> |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.55%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.13%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.12%20AM%20(1).jpeg" width="250"> |
+
+### 4. Receipt Scanner Flow & History Filters
+| Attach Receipt Init | Receipt Captured | Detailed Transaction Log | All Filtered Expenses |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.56%20AM%20(1).jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.14%20AM.jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.11%20AM.jpeg" width="220"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.46.12%20AM.jpeg" width="220"> |
 
 ---
 
