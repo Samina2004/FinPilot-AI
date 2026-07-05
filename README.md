@@ -11,7 +11,7 @@ Designed with a clean UX/UI and following modern Android development architectur
 *   **🔒 Secure Authentication:** Seamless User Sign-In and Registration flows.
 *   **📱 Guided Onboarding:** Interactive onboarding screens built to educate users about smart financial habits.
 *   **📊 Dynamic Dashboard:** Live expense updates featuring tracking indicators for Monthly Budget, Total Spending, and Remaining Savings.
-*   **💡 Smart AI Insights:** Personalized feedback based on current spending distributions (e.g., automated category flags like *Food* or *Transport*).
+*   **💡 Smart AI Insights:** Personalized feedback based on current spending distributions.
 *   **🧾 Receipt Scan & Capture:** Built-in receipt attachment flow from camera or gallery to save visual transaction proofs.
 *   **🔍 Detailed Expense Logs:** Comprehensive search and category filters to browse through historical transaction logs.
 
@@ -22,12 +22,12 @@ Designed with a clean UX/UI and following modern Android development architectur
 ### 1. Welcome & Getting Started
 | Splash Screen | Modern Onboarding | Budget Guidance |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.54%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.55%20AM.jpeg" width="250"> |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.51%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(1).jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.55%20AM.jpeg" width="250"> |
 
 ### 2. User Authentication
 | Sign In | Account Registration |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(1).jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(2).jpeg" width="250"> |
+| <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.54%20AM.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/Samina2004/FinPilot-AI/main/WhatsApp%20Image%202026-07-05%20at%209.29.52%20AM%20(2).jpeg" width="250"> |
 
 ### 3. Core Dashboard & Smart Features
 | Live Dashboard & AI Insights | Expense Logging | Detailed Transaction Proof |
@@ -45,7 +45,7 @@ Designed with a clean UX/UI and following modern Android development architectur
 
 *   **Language:** Kotlin 🚀
 *   **UI Framework:** Jetpack Compose (100% Declarative UI)
-*   **Architecture:** MVVM (Model-View-ViewModel) Pattern with Clean Architecture principles.
+*   **Architecture:** MVVM (Model-View-ViewModel) Pattern
 *   **Dependency Injection:** Dagger Hilt
-*   **Local Database:** Room Database (for persistent caching of budgets and expenses)
+*   **Local Database:** Room Database
 *   **Asynchronous Flow:** Kotlin Coroutines & StateFlow
