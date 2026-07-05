@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270774883244",
+    "project_id": "finpilotai-818d9",
+    "storage_bucket": "finpilotai-818d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270774883244:android:2e30bdc18fe9c6ea6ee009",
+        "android_client_info": {
+          "package_name": "com.finpilotai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZICaoGWSpAXpyOLaGrYBamdQxE1U0EpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
